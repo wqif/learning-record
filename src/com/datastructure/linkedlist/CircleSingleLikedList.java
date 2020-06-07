@@ -7,12 +7,16 @@ package com.datastructure.linkedlist;
 public class CircleSingleLikedList {
     private Node first;
 
+    public Node getFirst() {
+        return first;
+    }
+
     /**
      * 添加节点，构成环形链表
      *
      * @param num
      */
-    private void add(int num) {
+    public void add(int num) {
         if (num < 1) {
             System.out.println("num的值必须大于0");
             return;
