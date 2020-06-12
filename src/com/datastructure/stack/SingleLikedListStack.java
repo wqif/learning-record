@@ -1,8 +1,6 @@
 package com.datastructure.stack;
 
 
-import com.datastructure.linkedlist.SingleLikedList;
-
 /**
  * @author Qifeng Wen
  * @date 2020-06-12 下午9:01
@@ -21,7 +19,7 @@ public class SingleLikedListStack<T> {
 
     public T top() {
         if (empty()) {
-            new RuntimeException("栈空");
+            throw new RuntimeException("栈空");
         }
         return this.top.getData();
     }
@@ -39,7 +37,7 @@ public class SingleLikedListStack<T> {
 
     public T pop() {
         if (empty()) {
-            new RuntimeException("栈空");
+            throw new RuntimeException("栈空");
         }
         T data = top.getData();
         top = top.getNext();
