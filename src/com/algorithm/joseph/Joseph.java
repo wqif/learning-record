@@ -3,7 +3,6 @@ package com.algorithm.joseph;
 import com.datastructure.linkedlist.CircleSingleLikedList;
 import com.datastructure.linkedlist.Node;
 
-import java.sql.PreparedStatement;
 
 /**
  * @author Qifeng Wen
