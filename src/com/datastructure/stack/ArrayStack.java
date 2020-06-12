@@ -28,7 +28,7 @@ public class ArrayStack {
     // 返回栈顶元素
     public Object top() {
         if (empty()) {
-            new RuntimeException("栈空");
+            throw new RuntimeException("栈空");
         }
 
         return stack[top];
@@ -47,7 +47,7 @@ public class ArrayStack {
     // 出栈
     public Object pop() {
         if (empty()) {
-            new RuntimeException("栈空");
+            throw new RuntimeException("栈空");
         }
 
         return stack[top--];
