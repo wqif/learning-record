@@ -25,6 +25,15 @@ public class ArrayStack {
         return top == -1;
     }
 
+    // 返回栈顶元素
+    public int top() {
+        if (empty()) {
+            new RuntimeException("栈空");
+        }
+
+        return stack[top];
+    }
+
     // 入栈
     public void push(int val) {
         if (full()) {
