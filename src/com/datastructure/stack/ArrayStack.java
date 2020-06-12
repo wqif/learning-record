@@ -6,12 +6,12 @@ package com.datastructure.stack;
  */
 public class ArrayStack {
     private int maxSize; // 栈的大小
-    private int[] stack; // 用来存放数据
+    private Object[] stack; // 用来存放数据
     private int top = -1;
 
     public ArrayStack(int maxSize) {
         this.maxSize = maxSize;
-        stack = new int[maxSize];
+        stack = new Object[maxSize];
     }
 
 
@@ -26,7 +26,7 @@ public class ArrayStack {
     }
 
     // 返回栈顶元素
-    public int top() {
+    public Object top() {
         if (empty()) {
             new RuntimeException("栈空");
         }
@@ -35,7 +35,7 @@ public class ArrayStack {
     }
 
     // 入栈
-    public void push(int val) {
+    public void push(Object val) {
         if (full()) {
             System.out.println("栈满, 无法添加数据");
             return;
@@ -45,7 +45,7 @@ public class ArrayStack {
     }
 
     // 出栈
-    public int pop() {
+    public Object pop() {
         if (empty()) {
             new RuntimeException("栈空");
         }
