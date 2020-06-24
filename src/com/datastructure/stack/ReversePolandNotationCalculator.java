@@ -97,7 +97,6 @@ public class ReversePolandNotationCalculator {
                 }
                 stack.push(item);
             }
-            stack.list();
         }
         while (!stack.empty()) ret.add(stack.pop());
         return ret;
