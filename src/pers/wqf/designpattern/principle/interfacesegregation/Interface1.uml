@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Diagram>
   <ID>JAVA</ID>
-  <OriginalElement>com.designpattern.principle.segregation.Interface1</OriginalElement>
+  <OriginalElement>pers.wqf.designpattern.principle.interfacesegregation.Interface1</OriginalElement>
   <nodes>
-    <node x="706.0" y="210.0">com.designpattern.principle.segregation.B</node>
-    <node x="253.99999999999997" y="236.0">com.designpattern.principle.segregation.A</node>
-    <node x="508.0" y="210.0">com.designpattern.principle.segregation.D</node>
-    <node x="417.3588235294118" y="-15.970588235294116">com.designpattern.principle.segregation.Interface1</node>
-    <node x="0.0" y="236.0">com.designpattern.principle.segregation.C</node>
+    <node x="706.0" y="210.0">pers.wqf.designpattern.principle.interfacesegregation.B</node>
+    <node x="253.99999999999997" y="236.0">pers.wqf.designpattern.principle.interfacesegregation.A</node>
+    <node x="508.0" y="210.0">pers.wqf.designpattern.principle.interfacesegregation.D</node>
+    <node x="417.3588235294118" y="-15.970588235294116">pers.wqf.designpattern.principle.interfacesegregation.Interface1</node>
+    <node x="0.0" y="236.0">pers.wqf.designpattern.principle.interfacesegregation.C</node>
   </nodes>
   <notes />
   <edges>
-    <edge source="com.designpattern.principle.segregation.B" target="com.designpattern.principle.segregation.Interface1">
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.B" target="pers.wqf.designpattern.principle.interfacesegregation.Interface1">
       <point x="0.0" y="-80.0" />
       <point x="795.0" y="180.0" />
       <point x="550.75" y="180.0" />
       <point x="66.75" y="80.0" />
     </edge>
-    <edge source="com.designpattern.principle.segregation.A" target="com.designpattern.principle.segregation.Interface1">
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.A" target="pers.wqf.designpattern.principle.interfacesegregation.Interface1">
       <point x="0.0" y="-54.0" />
       <point x="371.0" y="190.0" />
       <point x="461.75" y="190.0" />
       <point x="-22.25" y="80.0" />
     </edge>
-    <edge source="com.designpattern.principle.segregation.D" target="com.designpattern.principle.segregation.Interface1">
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.D" target="pers.wqf.designpattern.principle.interfacesegregation.Interface1">
       <point x="0.0" y="-80.0" />
       <point x="597.0" y="190.0" />
       <point x="506.25" y="190.0" />
       <point x="22.25" y="80.0" />
     </edge>
-    <edge source="com.designpattern.principle.segregation.C" target="com.designpattern.principle.segregation.Interface1">
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.C" target="pers.wqf.designpattern.principle.interfacesegregation.Interface1">
       <point x="0.0" y="-54.0" />
       <point x="117.0" y="180.0" />
       <point x="417.25" y="180.0" />
@@ -38,7 +38,7 @@
   </edges>
   <settings layout="Hierarchic Group" zoom="0.6261510128913443" x="257.0" y="262.0" />
   <SelectedNodes>
-    <node>com.designpattern.principle.segregation.Interface1</node>
+    <node>pers.wqf.designpattern.principle.interfacesegregation.Interface1</node>
   </SelectedNodes>
   <Categories>
     <Category>Fields</Category>
@@ -50,4 +50,3 @@
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
 </Diagram>
-

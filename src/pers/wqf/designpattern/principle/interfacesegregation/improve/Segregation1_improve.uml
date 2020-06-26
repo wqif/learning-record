@@ -1,13 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Diagram>
   <ID>JAVA</ID>
-  <OriginalElement>com.designpattern.principle.segregation.improve.B</OriginalElement>
-  <nodes />
+  <OriginalElement>pers.wqf.designpattern.principle.interfacesegregation.improve.Interface2</OriginalElement>
+  <nodes>
+    <node x="-355.9999999999999" y="162.0">pers.wqf.designpattern.principle.interfacesegregation.improve.D</node>
+    <node x="-609.9999999999999" y="162.0">pers.wqf.designpattern.principle.interfacesegregation.improve.C</node>
+    <node x="96.00000000000011" y="162.0">pers.wqf.designpattern.principle.interfacesegregation.improve.B</node>
+    <node x="-249.9999999999999" y="43.0">pers.wqf.designpattern.principle.interfacesegregation.improve.Interface1</node>
+    <node x="-157.9999999999999" y="162.0">pers.wqf.designpattern.principle.interfacesegregation.improve.A</node>
+    <node x="-520.4999999999999" y="30.0">pers.wqf.designpattern.principle.interfacesegregation.improve.Interface3</node>
+    <node x="34.500000000000114" y="30.0">pers.wqf.designpattern.principle.interfacesegregation.improve.Interface2</node>
+  </nodes>
   <notes />
-  <edges />
-  <settings layout="Hierarchic Group" zoom="1.0" x="434.5" y="170.0" />
+  <edges>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.D" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface3">
+      <point x="-44.5" y="-54.0" />
+      <point x="-311.4999999999999" y="132.0" />
+      <point x="-386.9999999999999" y="132.0" />
+      <point x="44.5" y="41.0" />
+    </edge>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.B" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface1">
+      <point x="-44.5" y="-54.0" />
+      <point x="140.5000000000001" y="132.0" />
+      <point x="-94.24999999999989" y="132.0" />
+      <point x="66.75" y="28.0" />
+    </edge>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.C" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface3">
+      <point x="-58.5" y="-54.0" />
+      <point x="-551.4999999999999" y="142.0" />
+      <point x="-475.9999999999999" y="142.0" />
+      <point x="-44.5" y="41.0" />
+    </edge>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.B" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface2">
+      <point x="44.5" y="-54.0" />
+      <point x="229.5000000000001" y="142.0" />
+      <point x="168.0000000000001" y="142.0" />
+      <point x="44.5" y="41.0" />
+    </edge>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.A" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface1">
+      <point x="-58.5" y="-54.0" />
+      <point x="-99.49999999999989" y="142.0" />
+      <point x="-138.7499999999999" y="142.0" />
+      <point x="22.25" y="28.0" />
+    </edge>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.A" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface2">
+      <point x="58.5" y="-54.0" />
+      <point x="17.500000000000114" y="142.0" />
+      <point x="79.00000000000011" y="142.0" />
+      <point x="-44.5" y="41.0" />
+    </edge>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.D" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface1">
+      <point x="44.5" y="-54.0" />
+      <point x="-222.4999999999999" y="142.0" />
+      <point x="-183.2499999999999" y="142.0" />
+      <point x="-22.25" y="28.0" />
+    </edge>
+    <edge source="pers.wqf.designpattern.principle.interfacesegregation.improve.C" target="pers.wqf.designpattern.principle.interfacesegregation.improve.Interface1">
+      <point x="58.5" y="-54.0" />
+      <point x="-434.4999999999999" y="142.0" />
+      <point x="-227.7499999999999" y="142.0" />
+      <point x="-66.75" y="28.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="68.0" y="150.0" />
   <SelectedNodes />
-  <Categories />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
 </Diagram>
