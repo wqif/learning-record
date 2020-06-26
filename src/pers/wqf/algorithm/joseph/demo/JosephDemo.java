@@ -1,6 +1,6 @@
-package com.algorithm.joseph.demo;
+package pers.wqf.algorithm.joseph.demo;
 
-import com.algorithm.joseph.Joseph;
+import pers.wqf.algorithm.joseph.Joseph;
 
 /**
  * @author Qifeng Wen

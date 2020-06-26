@@ -1,7 +1,7 @@
-package com.datastructure.linkedlist.demo;
+package pers.wqf.datastructure.linkedlist.demo;
 
-import com.datastructure.linkedlist.Node;
-import com.datastructure.linkedlist.SingleLikedList;
+import pers.wqf.datastructure.linkedlist.Node;
+import pers.wqf.datastructure.linkedlist.SingleLikedList;
 
 /**
  * @author Qifeng Wen

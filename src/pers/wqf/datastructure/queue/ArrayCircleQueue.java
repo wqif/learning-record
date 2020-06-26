@@ -1,4 +1,4 @@
-package com.datastructure.queue;
+package pers.wqf.datastructure.queue;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.datastructure.stack;
+package pers.wqf.datastructure.stack;
 
 import java.util.ArrayList;
 import java.util.Arrays;

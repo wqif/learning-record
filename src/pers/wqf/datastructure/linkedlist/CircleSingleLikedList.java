@@ -1,4 +1,4 @@
-package com.datastructure.linkedlist;
+package pers.wqf.datastructure.linkedlist;
 
 /**
  * @author Qifeng Wen

@@ -1,4 +1,4 @@
-package com.designpattern.principle.interfacesegregation.improve;
+package pers.wqf.designpattern.principle.interfacesegregation.improve;
 
 /**
  * @author Qifeng Wen

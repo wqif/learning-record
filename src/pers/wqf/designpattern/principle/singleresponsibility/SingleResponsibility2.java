@@ -1,4 +1,4 @@
-package com.designpattern.principle.singleresponsibility;
+package pers.wqf.designpattern.principle.singleresponsibility;
 
 /**
  * @author Qifeng Wen

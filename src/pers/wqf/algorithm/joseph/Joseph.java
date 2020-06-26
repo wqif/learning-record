@@ -1,7 +1,7 @@
-package com.algorithm.joseph;
+package pers.wqf.algorithm.joseph;
 
-import com.datastructure.linkedlist.CircleSingleLikedList;
-import com.datastructure.linkedlist.Node;
+import pers.wqf.datastructure.linkedlist.CircleSingleLikedList;
+import pers.wqf.datastructure.linkedlist.Node;
 
 
 /**

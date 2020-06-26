@@ -1,7 +1,7 @@
-package com.datastructure.linkedlist.demo;
+package pers.wqf.datastructure.linkedlist.demo;
 
-import com.datastructure.linkedlist.DoubleLinkedList;
-import com.datastructure.linkedlist.Node;
+import pers.wqf.datastructure.linkedlist.DoubleLinkedList;
+import pers.wqf.datastructure.linkedlist.Node;
 
 /**
  * @author Qifeng Wen

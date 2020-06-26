@@ -1,11 +1,9 @@
-package com.datastructure.stack;
+package pers.wqf.datastructure.stack;
 
 /**
  * @author Qifeng Wen
  * @date 2020-06-17 下午10:00
  */
-
-import com.datastructure.linkedlist.SingleLikedList;
 
 /**
  * 用栈实现计算器
