@@ -1,4 +1,4 @@
-package com.designpattern.principle.segregation;
+package com.designpattern.principle.interfacesegregation;
 
 /**
  * @author Qifeng Wen
